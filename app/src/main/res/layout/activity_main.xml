@@ -21,6 +21,16 @@
         android:layout_height="wrap_content"
         android:hint="UserName"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello"/>
+
 
 
 </LinearLayout>
